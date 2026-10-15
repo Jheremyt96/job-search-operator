@@ -49,3 +49,5 @@ Node.js · SQLite with migrations · Docker Compose · zod · LLM via OpenRouter
 ---
 
 The source code is private because it runs my real job search. I'm happy to walk through the code and the running system on a call.
+
+© 2026 Jheremyt Salazar. All rights reserved.
